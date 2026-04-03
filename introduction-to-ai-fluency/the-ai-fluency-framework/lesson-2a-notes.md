@@ -6,6 +6,8 @@ Augmentation — You and the AI work together. The AI assists you wherever you'r
 
 Agency — You give the AI a goal and it figures out the steps and executes them independently, making decisions along the way without you guiding each step.
 
+
+
 The 4 D's Framework
 
 Diligence — Taking responsibility for the way you use AI, being transparent about the extent to which AI is used, and using it responsibly.
